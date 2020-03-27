@@ -1,0 +1,3 @@
+task printProperty {
+    println "my param value: ${myParam}"
+}
