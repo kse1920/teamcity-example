@@ -17,6 +17,6 @@
 
     <properties>
         <revision>1.0</revision>
-        <nexus.url>http://localhost:8081/repository/maven-releases/</nexus.url>
+        <nexus.url>http://172.20.6.73:8081:8081/repository/maven-releases/</nexus.url>
     </properties>
 </project>
